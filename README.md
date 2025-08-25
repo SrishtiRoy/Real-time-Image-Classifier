@@ -71,7 +71,8 @@ dependencies {
 
 ## 📸 Demo
 
-*(Add screenshot/gif here of classification running in real-time)*  
+*(![App Demo](assets/output.gif)
+  
 
 ---
 
