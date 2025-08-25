@@ -71,7 +71,7 @@ dependencies {
 
 ## 📸 Demo
 
-*(![App Demo](assets/output.gif)
+![App Demo](assets/output.gif)
   
 
 ---
