@@ -71,7 +71,8 @@ dependencies {
 
 ## 📸 Demo
 
-![App Demo](assets/output.gif)
+[![Watch the demo](https://img.youtube.com/vi/pfmBQfJfixk/0.jpg)](https://www.youtube.com/watch?v=pfmBQfJfixk)
+
   
 
 ---
